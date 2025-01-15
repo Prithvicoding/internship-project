@@ -11,7 +11,7 @@ PageTurner is a responsive web application designed to help users discover their
 
 ## Live Demo
 
-Check out the live site here: [PageTurner Website](https://inspiring-lebkuchen-28c675.netlify.app/#)
+Check out the live site here: [PageTurner Website](https://jolly-sundae-f0c6d5.netlify.app/)
 
 ## Tech Stack
 
